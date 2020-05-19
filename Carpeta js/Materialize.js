@@ -1,0 +1,1 @@
+alert("Bienvenidos al campo de la psicologia");
